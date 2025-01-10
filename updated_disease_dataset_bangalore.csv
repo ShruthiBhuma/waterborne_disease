@@ -1,0 +1,501 @@
+Full Name,Age,Area Name,Latitude,Longitude,Weather Condition,Season,Disease,Body Temperature,Symptoms,Month
+Ananya Singh,40,Indiranagar,13.050179,77.701998,Snowy,Winter,Cold,37.2,Runny Nose,January
+Nikhil Kumar,4,Whitefield,12.919158,77.633658,Snowy,Winter,Cough,37.5,Fatigue,January
+Aditya Pandey,18,HSR Layout,13.145343,77.668547,Rainy,Monsoon,Typhoid,39.1,Headache,August
+Shivansh Verma,83,Koramangala,12.945161,77.588649,Snowy,Summer,Malaria,39.4,Chills,March
+Saanvi Nair,2,Hebbal,13.194054,77.432535,Snowy,Monsoon,Typhoid,39.8,Stomach Pain,August
+Aadhya Bose,66,Banaswadi,13.077249,77.66158,Cloudy,Monsoon,Dengue,39.7,Joint Pain,July
+Aditya Kumar,76,Bannerghatta Road,12.888225,77.339359,Sunny,Monsoon,Cholera,37,Diarrhea,July
+Tanvi Iyer,63,Vidhana Soudha,12.916479,77.736226,Sunny,Monsoon,Malaria,38.7,Fever,October
+Shivansh Yadav,26,Bangalore West,13.14023,77.368638,Cloudy,Summer,Dengue,38.9,Fever,April
+Shreya Rao,49,Jayanagar,12.835939,77.372568,Rainy,Winter,Flu,38.9,Fatigue,February
+Shreya Iyer,11,Yelahanka,12.899072,77.422793,Sunny,Summer,Heatstroke,37,Headache,May
+Harshita Pandey,79,Bangalore West,12.823537,77.635627,Stormy,Monsoon,Dengue,38.3,Headache,October
+Ananya Patel,35,Indiranagar,13.020808,77.586884,Rainy,Winter,Cold,36.6,Runny Nose,February
+Aadhya Patel,1,MG Road,13.058029,77.737886,Snowy,Post-Monsoon,Jaundice,37.5,Fatigue,November
+Radhika Desai,3,Basavanagudi,12.829386,77.501823,Rainy,Summer,Heatstroke,37.4,Fatigue,March
+Aadhya Kumar,86,Bangalore West,13.118721,77.793754,Stormy,Summer,Dengue,39.5,Fever,March
+Saanvi Singh,30,Whitefield,13.085496,77.462902,Cloudy,Winter,Flu,38.5,Cough,January
+Tanvi Rao,38,HSR Layout,12.996293,77.653366,Stormy,Monsoon,Cholera,37.4,Stomach Pain,August
+Reyansh Verma,58,Whitefield,13.104886,77.750855,Snowy,Winter,Cold,37.5,Fatigue,February
+Aarav Iyer,69,Indiranagar,12.898672,77.385408,Snowy,Winter,Flu,38.5,Fever,December
+Harshita Sharma,59,Basavanagudi,13.043973,77.347198,Cloudy,Monsoon,Cholera,36.7,Dehydration,August
+Tanvi Gupta,47,Hebbal,12.924759,77.694171,Sunny,Monsoon,Malaria,38.4,Sweating,July
+Kavya Bose,7,MG Road,13.08315,77.390178,Rainy,Monsoon,Typhoid,39.9,Stomach Pain,August
+Harshita Kumar,56,Vidhana Soudha,13.123273,77.677812,Cloudy,Monsoon,Cholera,36.6,Stomach Pain,July
+Aditya Reddy,4,Malleshwaram,13.180518,77.521807,Stormy,Monsoon,Cholera,36.6,Diarrhea,June
+Krishna Chakraborty,44,Basavanagudi,13.197783,77.416042,Sunny,Winter,Flu,38.1,Fatigue,December
+Harshita Desai,60,Kengeri,13.070446,77.400297,Sunny,Summer,Dengue,39,Joint Pain,April
+Kavya Desai,87,Rajajinagar,13.133316,77.642538,Stormy,Monsoon,Typhoid,39.3,Headache,June
+Aarav Verma,61,Basavanagudi,13.073933,77.314026,Snowy,Monsoon,Cholera,37.1,Stomach Pain,July
+Rohit Desai,5,Banaswadi,13.135395,77.556906,Rainy,Monsoon,Dengue,39.5,Rash,July
+Priya Iyer,27,Bannerghatta Road,13.027342,77.474452,Sunny,Post-Monsoon,Dengue,39.3,Rash,November
+Isha Gupta,81,Malleshwaram,12.880324,77.321189,Sunny,Monsoon,Dengue,38.2,Headache,July
+Vihaan Rao,32,Bannerghatta Road,12.956135,77.632282,Sunny,Monsoon,Cholera,36.9,Dehydration,June
+Harshita Srinivasan,3,Banaswadi,12.992112,77.75878,Stormy,Summer,Heatstroke,36.5,Fatigue,March
+Reyansh Nair,42,Rajajinagar,13.04434,77.371407,Sunny,Post-Monsoon,Jaundice,37.3,Abdominal Pain,November
+Nikhil Chakraborty,28,Kengeri,13.135678,77.761131,Cloudy,Summer,Heatstroke,37.3,Headache,May
+Tanvi Mehta,32,Jayanagar,13.141612,77.449967,Snowy,Monsoon,Cholera,37.3,Diarrhea,September
+Reyansh Shukla,87,Jayanagar,12.970806,77.461894,Cloudy,Winter,Cold,36.7,Runny Nose,February
+Aadhya Jain,37,Jayanagar,12.872252,77.560333,Rainy,Summer,Dengue,39,Joint Pain,April
+Nikhil Bose,45,Vidhana Soudha,13.131814,77.666154,Sunny,Monsoon,Typhoid,38.5,Weakness,October
+Shivansh Yadav,4,Yelahanka,12.880015,77.4855,Stormy,Winter,Cough,37.1,Sore Throat,February
+Reyansh Joshi,51,Koramangala,13.162177,77.350818,Stormy,Post-Monsoon,Jaundice,36.6,Abdominal Pain,November
+Aditya Bose,5,Whitefield,12.947182,77.599764,Cloudy,Monsoon,Dengue,38.1,Joint Pain,June
+Reyansh Joshi,19,Koramangala,13.183641,77.589208,Stormy,Monsoon,Typhoid,38.7,Headache,July
+Tanvi Verma,73,Malleshwaram,13.067292,77.305636,Cloudy,Winter,Cold,37.3,Sneezing,January
+Reyansh Sharma,40,Kengeri,12.850727,77.789684,Sunny,Monsoon,Malaria,39.5,Sweating,July
+Kavya Joshi,66,Hebbal,12.87257,77.696677,Stormy,Monsoon,Malaria,38.5,Chills,August
+Ananya Sharma,39,HSR Layout,13.088008,77.672274,Rainy,Summer,Dengue,39.7,Rash,April
+Sai Srinivasan,40,HSR Layout,13.050873,77.44716,Sunny,Summer,Malaria,38.2,Sweating,April
+Radhika Reddy,46,Yelahanka,13.041031,77.76985,Sunny,Post-Monsoon,Dengue,39.3,Joint Pain,November
+Tanvi Patel,72,Kengeri,13.033035,77.557964,Stormy,Summer,Dengue,39.6,Fever,May
+Aditya Desai,83,HSR Layout,13.030389,77.781181,Stormy,Monsoon,Cholera,36.8,Vomiting,July
+Nikhil Joshi,30,Indiranagar,12.918441,77.569195,Cloudy,Summer,Heatstroke,37.4,Fever,April
+Isha Mehta,65,Whitefield,12.882613,77.469229,Stormy,Winter,Cold,36.9,Runny Nose,January
+Aadhya Chakraborty,20,Jayanagar,13.123944,77.622158,Stormy,Winter,Cough,37,Fatigue,December
+Harshita Rao,45,Hebbal,12.901448,77.676823,Cloudy,Summer,Malaria,39.7,Sweating,March
+Aadhya Patel,12,Basavanagudi,12.918758,77.582904,Rainy,Monsoon,Malaria,39.3,Fever,September
+Aadhya Rao,85,Yelahanka,12.980617,77.68098,Cloudy,Summer,Heatstroke,37.3,Fatigue,May
+Krishna Joshi,12,Hebbal,13.022183,77.798343,Sunny,Monsoon,Cholera,36.9,Diarrhea,June
+Reyansh Srinivasan,22,Kengeri,12.881867,77.321011,Stormy,Monsoon,Malaria,38.7,Sweating,August
+Shreya Shukla,45,Koramangala,13.096017,77.442304,Cloudy,Summer,Malaria,38.1,Sweating,May
+Krishna Sharma,6,Hebbal,13.038552,77.547247,Stormy,Winter,Cold,36.7,Runny Nose,February
+Rohit Chakraborty,44,Hebbal,13.018843,77.73604,Sunny,Monsoon,Malaria,39.7,Chills,August
+Radhika Pandey,67,Bangalore West,13.195812,77.507034,Stormy,Winter,Cough,37,Cough,February
+Vihaan Singh,27,HSR Layout,13.021641,77.319687,Snowy,Monsoon,Typhoid,38.9,Weakness,June
+Reyansh Gupta,64,Indiranagar,12.895522,77.727253,Rainy,Monsoon,Typhoid,38.3,Headache,July
+Harshita Nair,58,Bannerghatta Road,12.920018,77.753494,Snowy,Monsoon,Typhoid,38.9,Headache,June
+Kartik Joshi,56,Indiranagar,13.042965,77.340123,Snowy,Monsoon,Typhoid,39.3,Stomach Pain,July
+Vihaan Kumar,6,Hebbal,13.17272,77.696061,Stormy,Monsoon,Dengue,38.8,Fever,June
+Priya Mehta,65,Jayanagar,12.963187,77.474033,Cloudy,Monsoon,Cholera,36.5,Stomach Pain,September
+Reyansh Chakraborty,52,Banaswadi,13.046471,77.35888,Snowy,Summer,Dengue,38.2,Fever,March
+Kavya Sharma,69,Vidhana Soudha,12.800475,77.794251,Stormy,Monsoon,Dengue,38.5,Rash,October
+Aarav Bose,29,Whitefield,13.189068,77.463742,Snowy,Monsoon,Typhoid,39.6,Weakness,September
+Sai Mehta,75,Indiranagar,12.982937,77.44585,Rainy,Monsoon,Cholera,37.1,Diarrhea,October
+Aarav Iyer,77,Indiranagar,13.093646,77.725775,Sunny,Summer,Heatstroke,36.7,Fatigue,May
+Harshita Iyer,54,Bangalore West,12.855425,77.341621,Cloudy,Summer,Dengue,39.6,Headache,April
+Shivansh Patel,1,Rajajinagar,13.033945,77.587305,Snowy,Post-Monsoon,Jaundice,36.7,Yellow Skin,November
+Rohit Pandey,74,Jayanagar,13.067228,77.577091,Sunny,Summer,Malaria,38,Fever,May
+Shivansh Bose,57,HSR Layout,13.116442,77.525776,Rainy,Monsoon,Cholera,36.8,Diarrhea,October
+Tanvi Iyer,34,Bannerghatta Road,13.060594,77.399304,Rainy,Monsoon,Malaria,39.5,Fever,August
+Harshita Bose,26,Bannerghatta Road,13.091497,77.422371,Snowy,Summer,Dengue,38.1,Rash,March
+Radhika Gupta,52,Banaswadi,13.037283,77.335368,Stormy,Winter,Cold,37.4,Fatigue,February
+Aditya Pandey,35,Bangalore West,13.095151,77.674004,Cloudy,Monsoon,Dengue,39.9,Rash,September
+Harshita Singh,55,Banaswadi,13.00745,77.34839,Sunny,Winter,Cough,36.5,Sore Throat,December
+Tanvi Singh,53,Jayanagar,13.157696,77.778724,Stormy,Monsoon,Cholera,36.9,Diarrhea,September
+Tanvi Jain,19,MG Road,13.088936,77.56373,Stormy,Monsoon,Dengue,38.6,Fever,October
+Tanvi Joshi,78,Hebbal,12.966627,77.698151,Snowy,Monsoon,Typhoid,38.6,Weakness,June
+Sai Gupta,79,Indiranagar,13.050132,77.430241,Rainy,Summer,Heatstroke,37.1,Headache,April
+Harshita Iyer,45,Hebbal,12.82552,77.713811,Stormy,Monsoon,Typhoid,38.9,Headache,August
+Reyansh Bose,66,Yelahanka,13.160126,77.547967,Snowy,Monsoon,Malaria,39.7,Headache,September
+Kavya Patel,10,Yelahanka,13.045352,77.763851,Sunny,Monsoon,Typhoid,38.9,Weakness,August
+Vihaan Gupta,88,Hebbal,12.829066,77.403938,Sunny,Winter,Cold,37.2,Sneezing,February
+Kartik Mehta,59,MG Road,12.965055,77.359902,Cloudy,Winter,Cold,37.1,Sneezing,February
+Kartik Iyer,39,Hebbal,12.837999,77.601045,Rainy,Monsoon,Typhoid,38.7,Fever,June
+Vihaan Bose,28,Malleshwaram,12.917049,77.713048,Sunny,Monsoon,Malaria,39.2,Chills,October
+Tanvi Reddy,27,Bannerghatta Road,13.14926,77.530965,Sunny,Monsoon,Malaria,39.5,Sweating,August
+Shreya Srinivasan,31,Koramangala,13.156997,77.786611,Sunny,Winter,Flu,38.4,Sore Throat,February
+Krishna Verma,11,Koramangala,12.996215,77.62904,Cloudy,Monsoon,Typhoid,38,Weakness,June
+Shreya Reddy,84,Yelahanka,12.95067,77.753542,Stormy,Monsoon,Cholera,36.9,Stomach Pain,October
+Krishna Kumar,1,Jayanagar,12.900254,77.469768,Stormy,Monsoon,Malaria,39.3,Headache,October
+Radhika Shukla,30,Indiranagar,12.908766,77.607067,Stormy,Winter,Cold,36.7,Sneezing,February
+Aadhya Sharma,51,Basavanagudi,12.986198,77.449054,Sunny,Monsoon,Typhoid,38.1,Weakness,October
+Vihaan Pandey,62,Banaswadi,13.188967,77.740088,Sunny,Monsoon,Typhoid,39.9,Stomach Pain,October
+Aarav Rao,80,Indiranagar,13.141069,77.648865,Snowy,Summer,Heatstroke,36.6,Headache,April
+Krishna Nair,82,Bannerghatta Road,13.196821,77.426916,Rainy,Monsoon,Malaria,38.9,Chills,October
+Tanvi Mehta,11,Kengeri,13.014084,77.533382,Stormy,Monsoon,Dengue,39.4,Fever,August
+Tanvi Joshi,23,Yelahanka,13.117017,77.558298,Stormy,Monsoon,Malaria,39.3,Chills,June
+Shreya Bose,54,Bannerghatta Road,13.084149,77.749089,Rainy,Monsoon,Typhoid,38.3,Weakness,October
+Tanvi Yadav,20,Whitefield,12.996043,77.558229,Sunny,Winter,Cough,37.1,Sore Throat,January
+Shivansh Mehta,74,Jayanagar,13.089852,77.317668,Stormy,Summer,Heatstroke,36.8,Dizziness,April
+Krishna Iyer,11,MG Road,13.1082,77.378016,Sunny,Monsoon,Cholera,36.6,Stomach Pain,July
+Aadhya Verma,16,Malleshwaram,12.980796,77.475448,Snowy,Monsoon,Malaria,38.8,Chills,October
+Priya Joshi,35,Bannerghatta Road,12.925703,77.756945,Stormy,Summer,Malaria,38.1,Headache,March
+Aadhya Verma,77,Banaswadi,12.996803,77.423173,Stormy,Winter,Cold,36.6,Fatigue,December
+Nikhil Verma,78,Yelahanka,12.978235,77.711139,Rainy,Monsoon,Dengue,38.7,Headache,June
+Ananya Verma,23,Bannerghatta Road,12.827937,77.486765,Sunny,Monsoon,Typhoid,38.3,Stomach Pain,September
+Kartik Iyer,39,MG Road,13.139004,77.78342,Snowy,Summer,Malaria,39.6,Fever,May
+Rohit Pandey,48,Indiranagar,13.112044,77.471036,Cloudy,Monsoon,Malaria,38.1,Fever,July
+Ananya Iyer,14,Bangalore West,12.936078,77.787924,Cloudy,Monsoon,Malaria,39.5,Headache,July
+Aadhya Jain,74,Kengeri,12.927658,77.673774,Snowy,Winter,Flu,38.7,Cough,December
+Isha Singh,50,HSR Layout,12.971439,77.331684,Sunny,Summer,Malaria,39.3,Sweating,May
+Saanvi Mehta,82,HSR Layout,13.118121,77.724978,Cloudy,Monsoon,Cholera,37.2,Vomiting,June
+Kavya Kumar,42,Jayanagar,13.183138,77.379041,Rainy,Monsoon,Malaria,38.7,Sweating,June
+Priya Srinivasan,84,Koramangala,13.193732,77.608986,Stormy,Summer,Dengue,38.6,Fever,April
+Priya Sharma,13,Kengeri,12.905266,77.341493,Snowy,Monsoon,Typhoid,38.9,Weakness,August
+Ananya Yadav,77,Whitefield,12.919336,77.333883,Rainy,Summer,Heatstroke,37.2,Headache,April
+Reyansh Srinivasan,74,Rajajinagar,13.102159,77.506667,Rainy,Winter,Flu,38.8,Cough,February
+Isha Iyer,18,Jayanagar,12.950324,77.755738,Cloudy,Post-Monsoon,Cholera,36.6,Diarrhea,November
+Aditya Joshi,3,Basavanagudi,12.926608,77.779891,Snowy,Winter,Cough,37.4,Fatigue,December
+Sai Gupta,42,HSR Layout,13.121392,77.37555,Snowy,Summer,Heatstroke,36.9,Headache,April
+Aarav Nair,3,Whitefield,13.01887,77.695181,Cloudy,Monsoon,Typhoid,39.6,Weakness,July
+Kartik Srinivasan,27,HSR Layout,13.082129,77.771831,Rainy,Winter,Flu,40,Fever,January
+Isha Jain,85,Kengeri,12.968078,77.570293,Cloudy,Winter,Cough,37.2,Fatigue,January
+Priya Singh,47,HSR Layout,12.9754,77.741225,Stormy,Summer,Malaria,38.1,Sweating,May
+Vihaan Srinivasan,80,Whitefield,12.844079,77.422638,Stormy,Monsoon,Typhoid,39.9,Stomach Pain,June
+Shreya Nair,29,MG Road,12.83315,77.789798,Sunny,Monsoon,Malaria,38.1,Sweating,June
+Tanvi Pandey,79,Hebbal,13.13854,77.723247,Stormy,Post-Monsoon,Jaundice,37.3,Fatigue,November
+Tanvi Rao,19,Banaswadi,12.97321,77.776979,Rainy,Monsoon,Dengue,39.7,Rash,June
+Radhika Kumar,78,Rajajinagar,13.058682,77.483892,Cloudy,Monsoon,Malaria,38.3,Sweating,October
+Ananya Kumar,76,Kengeri,12.870589,77.326524,Snowy,Monsoon,Malaria,39.1,Chills,June
+Aarav Reddy,40,Basavanagudi,12.905109,77.53653,Snowy,Winter,Flu,39.2,Cough,February
+Krishna Sharma,25,Hebbal,13.118368,77.441538,Sunny,Summer,Dengue,39.8,Fever,March
+Tanvi Gupta,82,Whitefield,13.186119,77.589338,Rainy,Winter,Cough,36.8,Fatigue,January
+Sai Mehta,70,Bangalore West,12.931714,77.575698,Stormy,Monsoon,Typhoid,38.2,Fever,September
+Shivansh Patel,20,Basavanagudi,12.919865,77.342456,Cloudy,Monsoon,Cholera,37,Vomiting,August
+Kavya Nair,8,Indiranagar,13.01975,77.584964,Sunny,Monsoon,Typhoid,40,Stomach Pain,October
+Aadhya Reddy,72,Basavanagudi,12.871825,77.337543,Stormy,Monsoon,Cholera,36.7,Vomiting,September
+Kartik Yadav,41,Malleshwaram,12.845759,77.634714,Cloudy,Summer,Dengue,38.9,Fever,March
+Kavya Joshi,37,MG Road,12.81558,77.387151,Sunny,Monsoon,Dengue,38.6,Headache,August
+Vihaan Gupta,3,Bangalore West,12.910856,77.596332,Rainy,Winter,Cold,37.3,Sneezing,February
+Aditya Shukla,80,Whitefield,13.102613,77.578468,Snowy,Winter,Cold,37.1,Runny Nose,December
+Vihaan Yadav,22,Bannerghatta Road,12.843171,77.69222,Sunny,Post-Monsoon,Dengue,38.9,Joint Pain,November
+Radhika Shukla,70,Bannerghatta Road,13.013045,77.379484,Rainy,Monsoon,Cholera,36.6,Dehydration,July
+Kavya Shukla,88,Jayanagar,12.91011,77.511567,Cloudy,Summer,Malaria,38.3,Chills,May
+Reyansh Shukla,3,MG Road,13.000378,77.411838,Rainy,Post-Monsoon,Jaundice,36.7,Fatigue,November
+Krishna Yadav,31,Kengeri,12.888455,77.33135,Snowy,Winter,Flu,39.5,Fatigue,February
+Kavya Shukla,31,Bannerghatta Road,12.945215,77.662879,Rainy,Winter,Cough,37.1,Cough,December
+Kavya Chakraborty,46,Koramangala,12.835312,77.567135,Stormy,Summer,Dengue,38.6,Headache,April
+Kartik Chakraborty,4,Basavanagudi,12.859102,77.466736,Snowy,Summer,Dengue,38.5,Joint Pain,April
+Krishna Shukla,29,Vidhana Soudha,12.922045,77.631001,Cloudy,Summer,Dengue,38.8,Headache,May
+Aditya Desai,6,HSR Layout,12.867322,77.395234,Rainy,Monsoon,Dengue,39.1,Headache,October
+Harshita Reddy,81,Rajajinagar,12.915446,77.716487,Stormy,Winter,Cold,37.4,Fatigue,January
+Isha Reddy,20,Whitefield,13.059822,77.743004,Rainy,Winter,Flu,39.8,Fatigue,January
+Priya Pandey,3,Kengeri,13.150226,77.328885,Sunny,Monsoon,Malaria,38.9,Fever,June
+Nikhil Gupta,41,Vidhana Soudha,12.908907,77.458547,Sunny,Winter,Flu,39.1,Sore Throat,January
+Vihaan Mehta,28,Banaswadi,12.912886,77.576451,Sunny,Summer,Heatstroke,37.5,Headache,March
+Krishna Shukla,6,Jayanagar,12.831211,77.746659,Snowy,Monsoon,Dengue,38.4,Fever,August
+Kartik Reddy,61,Whitefield,13.132428,77.448821,Rainy,Monsoon,Cholera,37,Dehydration,October
+Tanvi Yadav,80,Yelahanka,13.083061,77.558957,Rainy,Monsoon,Malaria,38.2,Chills,June
+Nikhil Yadav,54,MG Road,12.878976,77.62865,Cloudy,Monsoon,Dengue,39.2,Joint Pain,October
+Kavya Patel,75,Yelahanka,13.067216,77.524183,Rainy,Post-Monsoon,Cholera,36.9,Dehydration,November
+Aditya Mehta,73,Kengeri,13.12671,77.748974,Stormy,Summer,Heatstroke,36.6,Fever,April
+Saanvi Jain,37,HSR Layout,13.037478,77.500751,Sunny,Winter,Flu,38.1,Cough,February
+Rohit Pandey,69,Yelahanka,13.183521,77.408616,Snowy,Monsoon,Cholera,37.3,Vomiting,September
+Shivansh Verma,38,HSR Layout,12.941445,77.751681,Stormy,Monsoon,Dengue,39.2,Headache,July
+Nikhil Verma,37,Koramangala,12.875925,77.545438,Sunny,Monsoon,Cholera,36.5,Dehydration,September
+Harshita Reddy,37,Hebbal,12.884751,77.792436,Sunny,Summer,Malaria,39.9,Fever,March
+Tanvi Reddy,79,MG Road,13.197744,77.324634,Snowy,Monsoon,Typhoid,39.9,Weakness,September
+Tanvi Bose,13,Whitefield,12.863599,77.797445,Rainy,Winter,Cold,37.1,Fatigue,December
+Saanvi Shukla,55,Malleshwaram,13.179521,77.776597,Rainy,Winter,Cough,37,Sore Throat,February
+Rohit Nair,43,Jayanagar,12.830897,77.370709,Rainy,Post-Monsoon,Cholera,37.4,Diarrhea,November
+Kavya Rao,31,Basavanagudi,12.802224,77.354705,Cloudy,Monsoon,Dengue,39.2,Fever,October
+Radhika Chakraborty,3,Whitefield,12.801459,77.378733,Rainy,Winter,Cough,36.8,Fatigue,February
+Shivansh Patel,84,HSR Layout,13.068813,77.541352,Snowy,Summer,Dengue,38.5,Fever,May
+Harshita Iyer,48,Whitefield,12.962131,77.583758,Sunny,Summer,Heatstroke,37.1,Fatigue,May
+Shivansh Patel,80,Basavanagudi,12.847268,77.538117,Sunny,Summer,Dengue,38.9,Fever,April
+Shreya Iyer,36,Bangalore West,13.078103,77.309461,Rainy,Monsoon,Malaria,39.4,Chills,June
+Saanvi Desai,25,Bangalore West,12.838172,77.52857,Snowy,Winter,Cold,37.2,Sneezing,December
+Aarav Srinivasan,45,Bangalore West,12.922923,77.63143,Stormy,Summer,Malaria,39.1,Fever,May
+Shreya Yadav,18,MG Road,13.082126,77.487153,Stormy,Monsoon,Dengue,39.9,Fever,July
+Kartik Desai,9,MG Road,12.965284,77.627004,Sunny,Post-Monsoon,Jaundice,36.9,Yellow Skin,November
+Saanvi Mehta,61,Kengeri,13.050961,77.492742,Stormy,Monsoon,Dengue,38.1,Headache,October
+Kartik Reddy,4,Rajajinagar,13.024894,77.795283,Snowy,Winter,Flu,39.8,Cough,January
+Harshita Jain,12,Rajajinagar,13.153613,77.396975,Sunny,Monsoon,Typhoid,39.2,Headache,September
+Kartik Yadav,5,Banaswadi,13.090281,77.624488,Sunny,Post-Monsoon,Jaundice,37,Fatigue,November
+Kartik Nair,86,HSR Layout,12.805536,77.533875,Snowy,Winter,Flu,38.2,Fatigue,January
+Shivansh Desai,65,MG Road,12.816106,77.416871,Stormy,Summer,Malaria,39.4,Chills,May
+Harshita Jain,67,Malleshwaram,13.075948,77.73099,Cloudy,Summer,Dengue,38.1,Headache,April
+Shivansh Sharma,71,Yelahanka,13.101529,77.443522,Snowy,Summer,Dengue,39.4,Fever,May
+Nikhil Joshi,60,Yelahanka,12.809462,77.620703,Cloudy,Summer,Dengue,39.2,Headache,March
+Saanvi Gupta,90,MG Road,12.804295,77.435343,Stormy,Winter,Flu,39.7,Cough,December
+Reyansh Mehta,25,Yelahanka,13.112016,77.627935,Snowy,Winter,Cold,37.1,Fatigue,December
+Kartik Iyer,17,Yelahanka,12.842212,77.74476,Rainy,Winter,Cough,36.6,Cough,January
+Radhika Srinivasan,25,Bannerghatta Road,12.888956,77.372931,Sunny,Monsoon,Cholera,36.7,Diarrhea,August
+Vihaan Shukla,42,Jayanagar,12.845588,77.665416,Sunny,Monsoon,Dengue,38.6,Fever,August
+Saanvi Yadav,57,Hebbal,12.807614,77.34968,Cloudy,Monsoon,Malaria,38.5,Sweating,August
+Vihaan Patel,77,Bangalore West,12.920188,77.718265,Rainy,Monsoon,Typhoid,39.6,Stomach Pain,August
+Reyansh Joshi,3,Banaswadi,13.131955,77.492746,Sunny,Monsoon,Cholera,37.4,Stomach Pain,October
+Nikhil Kumar,44,Kengeri,13.070094,77.691976,Rainy,Monsoon,Typhoid,38.1,Weakness,June
+Ananya Yadav,42,Koramangala,12.903834,77.486893,Stormy,Winter,Flu,38.7,Cough,February
+Aditya Pandey,34,Bannerghatta Road,12.971326,77.796877,Sunny,Summer,Heatstroke,37.2,Fatigue,May
+Shivansh Rao,11,Hebbal,13.020028,77.678734,Cloudy,Monsoon,Dengue,38.5,Fever,August
+Aadhya Reddy,5,Jayanagar,13.039992,77.481044,Stormy,Monsoon,Cholera,36.5,Diarrhea,October
+Shreya Desai,76,MG Road,13.072184,77.566791,Snowy,Monsoon,Cholera,37.2,Vomiting,August
+Reyansh Mehta,59,Indiranagar,12.96962,77.562314,Snowy,Summer,Heatstroke,36.7,Headache,May
+Harshita Srinivasan,46,Malleshwaram,13.188531,77.682002,Snowy,Winter,Cough,36.9,Fatigue,January
+Priya Verma,62,Hebbal,12.862901,77.352064,Stormy,Monsoon,Typhoid,39.9,Headache,July
+Sai Joshi,85,Yelahanka,13.086592,77.332352,Rainy,Monsoon,Typhoid,39,Headache,July
+Kartik Sharma,69,Whitefield,12.953608,77.419894,Cloudy,Summer,Heatstroke,36.9,Dizziness,April
+Rohit Yadav,35,Indiranagar,13.007548,77.430349,Cloudy,Summer,Malaria,39,Fever,May
+Saanvi Jain,8,Basavanagudi,12.82053,77.366327,Stormy,Winter,Cough,36.6,Sore Throat,February
+Nikhil Desai,79,Jayanagar,12.807379,77.446149,Rainy,Monsoon,Typhoid,38.5,Weakness,August
+Krishna Patel,80,Vidhana Soudha,13.000605,77.647926,Snowy,Monsoon,Dengue,39.6,Joint Pain,October
+Tanvi Rao,50,Bangalore West,13.169382,77.764377,Sunny,Winter,Flu,39.6,Cough,January
+Aadhya Reddy,39,MG Road,13.177271,77.58647,Stormy,Monsoon,Dengue,39.4,Joint Pain,August
+Priya Kumar,8,Indiranagar,12.858566,77.746918,Stormy,Monsoon,Cholera,37.3,Stomach Pain,September
+Kartik Shukla,27,Hebbal,12.905338,77.338363,Cloudy,Summer,Malaria,38,Fever,April
+Shivansh Iyer,68,Rajajinagar,12.854457,77.595161,Sunny,Summer,Dengue,39.9,Headache,March
+Vihaan Yadav,9,HSR Layout,12.959946,77.765331,Rainy,Monsoon,Typhoid,39.2,Weakness,October
+Sai Chakraborty,28,Hebbal,12.964439,77.351254,Stormy,Summer,Heatstroke,37.5,Headache,March
+Harshita Reddy,79,Rajajinagar,12.963711,77.321353,Cloudy,Winter,Cough,37.5,Sore Throat,January
+Vihaan Iyer,55,Rajajinagar,13.085038,77.40169,Sunny,Monsoon,Cholera,37.2,Stomach Pain,July
+Kartik Gupta,72,Bannerghatta Road,13.039134,77.548969,Cloudy,Monsoon,Dengue,39.1,Headache,October
+Tanvi Jain,72,Yelahanka,12.949357,77.336813,Rainy,Monsoon,Dengue,38.7,Rash,October
+Saanvi Iyer,48,Bannerghatta Road,13.046997,77.489142,Rainy,Winter,Flu,39.2,Cough,December
+Shreya Reddy,52,Koramangala,13.024898,77.650302,Stormy,Monsoon,Typhoid,39.4,Headache,October
+Isha Yadav,20,Kengeri,12.884658,77.326654,Stormy,Monsoon,Dengue,38.6,Headache,September
+Shivansh Nair,61,HSR Layout,12.997324,77.609671,Sunny,Winter,Flu,38.4,Fever,January
+Vihaan Verma,4,Indiranagar,13.101183,77.4679,Sunny,Summer,Heatstroke,37.1,Headache,March
+Aditya Mehta,10,Rajajinagar,13.14241,77.636541,Cloudy,Monsoon,Typhoid,39.3,Headache,August
+Vihaan Desai,19,HSR Layout,12.970228,77.491124,Rainy,Summer,Malaria,38.1,Sweating,April
+Kavya Rao,67,Whitefield,13.166129,77.700656,Stormy,Monsoon,Typhoid,38,Fever,September
+Krishna Desai,37,Banaswadi,12.867138,77.354069,Stormy,Monsoon,Dengue,40,Fever,September
+Radhika Joshi,5,Vidhana Soudha,13.035587,77.681305,Rainy,Monsoon,Dengue,39.1,Headache,September
+Radhika Iyer,71,Rajajinagar,12.873202,77.562117,Cloudy,Winter,Cold,37.2,Fatigue,February
+Nikhil Yadav,39,Koramangala,13.125886,77.609221,Snowy,Summer,Dengue,38.5,Fever,March
+Sai Yadav,53,Banaswadi,13.030469,77.579964,Snowy,Monsoon,Typhoid,39.1,Weakness,July
+Aadhya Srinivasan,87,Hebbal,12.964494,77.660254,Cloudy,Winter,Cough,36.9,Fatigue,January
+Priya Jain,38,Yelahanka,13.047286,77.627732,Sunny,Winter,Cough,37.1,Fatigue,December
+Vihaan Gupta,18,Whitefield,13.098357,77.324919,Sunny,Monsoon,Typhoid,38.7,Fever,October
+Aadhya Kumar,85,Vidhana Soudha,13.192582,77.347777,Rainy,Summer,Heatstroke,37.4,Headache,March
+Sai Mehta,68,Rajajinagar,12.907791,77.644734,Stormy,Monsoon,Malaria,39.2,Chills,June
+Shivansh Reddy,90,Bangalore West,12.862854,77.463651,Snowy,Summer,Heatstroke,37.1,Fatigue,May
+Saanvi Nair,4,Jayanagar,12.870524,77.64226,Snowy,Summer,Dengue,38.9,Rash,May
+Shivansh Rao,54,Rajajinagar,12.808403,77.678493,Stormy,Summer,Malaria,38.6,Headache,April
+Reyansh Srinivasan,18,Vidhana Soudha,13.043891,77.30602,Snowy,Post-Monsoon,Jaundice,37,Yellow Skin,November
+Nikhil Bose,58,MG Road,12.96874,77.701853,Rainy,Summer,Malaria,39.4,Sweating,March
+Kavya Mehta,85,Jayanagar,12.958564,77.665682,Rainy,Monsoon,Typhoid,39,Headache,July
+Harshita Verma,80,Whitefield,12.934509,77.523605,Cloudy,Winter,Flu,39.2,Fatigue,December
+Aarav Iyer,16,Hebbal,12.806132,77.678673,Sunny,Post-Monsoon,Jaundice,36.6,Fatigue,November
+Sai Shukla,6,Jayanagar,12.991598,77.580453,Rainy,Winter,Flu,38.1,Sore Throat,February
+Aarav Chakraborty,80,Basavanagudi,12.991478,77.465692,Stormy,Winter,Flu,39.8,Cough,January
+Kavya Jain,45,Rajajinagar,13.014372,77.459899,Rainy,Monsoon,Cholera,36.6,Diarrhea,September
+Nikhil Patel,76,Banaswadi,12.916126,77.403411,Stormy,Monsoon,Typhoid,38.1,Weakness,July
+Reyansh Yadav,24,Vidhana Soudha,13.037825,77.43775,Sunny,Winter,Flu,40,Sore Throat,January
+Vihaan Pandey,42,Whitefield,12.864801,77.76263,Cloudy,Monsoon,Malaria,39.2,Headache,September
+Sai Iyer,69,Vidhana Soudha,12.94365,77.701026,Rainy,Monsoon,Dengue,38.7,Rash,June
+Shreya Kumar,4,Jayanagar,12.917653,77.462677,Cloudy,Monsoon,Typhoid,38.1,Stomach Pain,June
+Harshita Sharma,25,Bangalore West,13.158687,77.641686,Rainy,Monsoon,Malaria,38.4,Headache,August
+Sai Jain,46,Vidhana Soudha,13.002301,77.660889,Snowy,Monsoon,Cholera,37.3,Diarrhea,October
+Kavya Patel,8,Bannerghatta Road,12.834526,77.553806,Cloudy,Summer,Dengue,38.7,Fever,April
+Tanvi Srinivasan,87,Koramangala,12.832621,77.774199,Sunny,Monsoon,Dengue,39.8,Joint Pain,September
+Tanvi Shukla,77,Koramangala,12.832768,77.333133,Stormy,Winter,Flu,38.8,Fever,December
+Priya Sharma,5,Basavanagudi,13.119725,77.761315,Sunny,Summer,Heatstroke,36.5,Dizziness,May
+Shreya Chakraborty,29,Hebbal,13.103735,77.56124,Cloudy,Monsoon,Typhoid,38.5,Weakness,June
+Saanvi Jain,36,Bannerghatta Road,12.951692,77.505494,Rainy,Monsoon,Cholera,37.2,Stomach Pain,July
+Saanvi Yadav,2,MG Road,12.862023,77.423408,Rainy,Monsoon,Typhoid,38.5,Stomach Pain,August
+Krishna Desai,4,Whitefield,13.091312,77.554962,Cloudy,Winter,Cough,37.4,Cough,January
+Tanvi Chakraborty,69,Kengeri,13.175097,77.561265,Sunny,Summer,Heatstroke,36.7,Headache,April
+Vihaan Srinivasan,68,Bannerghatta Road,12.879894,77.352692,Stormy,Winter,Cold,36.9,Fatigue,January
+Nikhil Singh,4,Yelahanka,12.878115,77.338895,Stormy,Monsoon,Malaria,39.8,Sweating,June
+Saanvi Pandey,20,HSR Layout,13.025008,77.426179,Stormy,Monsoon,Typhoid,38.6,Headache,August
+Vihaan Shukla,55,Rajajinagar,13.187988,77.406847,Snowy,Monsoon,Malaria,39,Chills,July
+Vihaan Srinivasan,40,Vidhana Soudha,12.947463,77.480455,Rainy,Monsoon,Typhoid,38.9,Fever,August
+Shreya Joshi,76,Vidhana Soudha,13.163592,77.792527,Cloudy,Summer,Dengue,39.7,Fever,March
+Kavya Yadav,11,Malleshwaram,12.956057,77.698645,Sunny,Monsoon,Dengue,39.2,Headache,August
+Saanvi Srinivasan,36,Whitefield,13.175263,77.367059,Cloudy,Monsoon,Cholera,36.8,Vomiting,July
+Reyansh Chakraborty,76,Hebbal,13.114665,77.637981,Sunny,Summer,Malaria,39.9,Fever,March
+Krishna Kumar,54,Jayanagar,12.931181,77.780242,Sunny,Winter,Flu,39.6,Cough,December
+Reyansh Joshi,84,HSR Layout,12.981415,77.415907,Stormy,Monsoon,Dengue,39.5,Fever,September
+Aditya Yadav,34,Yelahanka,12.916158,77.464693,Sunny,Summer,Heatstroke,36.5,Dizziness,April
+Shreya Sharma,45,Rajajinagar,13.006472,77.792093,Cloudy,Winter,Cold,37.3,Sneezing,January
+Ananya Iyer,7,Koramangala,13.161361,77.774479,Cloudy,Monsoon,Malaria,38.8,Headache,September
+Isha Joshi,24,Koramangala,12.879514,77.770397,Cloudy,Summer,Malaria,38,Sweating,May
+Aadhya Yadav,49,Whitefield,12.870028,77.350014,Snowy,Winter,Cough,37.2,Fatigue,January
+Sai Kumar,35,Yelahanka,13.040736,77.462511,Stormy,Post-Monsoon,Jaundice,37,Nausea,November
+Aarav Iyer,90,Rajajinagar,12.905609,77.732785,Stormy,Summer,Heatstroke,37.1,Fatigue,April
+Reyansh Jain,60,HSR Layout,13.146585,77.745444,Sunny,Winter,Flu,38,Fever,January
+Shivansh Srinivasan,10,MG Road,12.803955,77.305568,Rainy,Winter,Cold,36.5,Runny Nose,December
+Rohit Verma,8,Rajajinagar,13.145921,77.429876,Cloudy,Summer,Heatstroke,36.8,Fever,April
+Priya Rao,6,Yelahanka,12.846847,77.323301,Sunny,Monsoon,Dengue,39.8,Rash,June
+Harshita Shukla,13,Jayanagar,13.172793,77.320244,Snowy,Winter,Cold,36.8,Runny Nose,January
+Radhika Srinivasan,63,Malleshwaram,12.883913,77.525612,Stormy,Summer,Dengue,38.8,Rash,May
+Shivansh Gupta,32,Banaswadi,13.002226,77.383126,Stormy,Post-Monsoon,Cholera,37.2,Diarrhea,November
+Reyansh Chakraborty,72,Hebbal,13.133506,77.38373,Rainy,Winter,Cough,37.4,Fatigue,January
+Kavya Desai,26,Vidhana Soudha,13.104565,77.478772,Stormy,Summer,Malaria,38.4,Chills,May
+Saanvi Chakraborty,48,Hebbal,12.958445,77.621643,Stormy,Winter,Flu,39.7,Fatigue,February
+Saanvi Pandey,25,Hebbal,12.96186,77.726917,Rainy,Summer,Malaria,38.2,Chills,March
+Shreya Kumar,66,Indiranagar,12.875495,77.560538,Sunny,Winter,Cold,36.9,Fatigue,December
+Shivansh Shukla,80,Bannerghatta Road,13.068364,77.608576,Cloudy,Monsoon,Cholera,36.9,Vomiting,June
+Aditya Pandey,15,Rajajinagar,12.892749,77.304353,Snowy,Monsoon,Dengue,39.7,Rash,October
+Sai Patel,72,Indiranagar,12.9914,77.592572,Stormy,Monsoon,Dengue,38.3,Joint Pain,August
+Aadhya Joshi,36,Hebbal,12.828215,77.315197,Snowy,Summer,Dengue,39.3,Fever,May
+Radhika Gupta,8,Malleshwaram,12.956419,77.389892,Cloudy,Summer,Dengue,38.2,Rash,March
+Isha Sharma,4,Koramangala,12.819754,77.330993,Rainy,Monsoon,Cholera,36.9,Vomiting,July
+Nikhil Yadav,78,Bangalore West,13.007652,77.393879,Stormy,Winter,Cough,37.3,Fatigue,February
+Sai Patel,31,Rajajinagar,12.815798,77.471612,Snowy,Summer,Dengue,39.2,Headache,April
+Nikhil Reddy,83,Whitefield,13.072931,77.663753,Snowy,Winter,Cold,37.2,Sneezing,January
+Saanvi Rao,38,Vidhana Soudha,13.150775,77.722477,Sunny,Winter,Flu,39.4,Sore Throat,December
+Tanvi Verma,22,Kengeri,12.92757,77.720724,Stormy,Summer,Malaria,38.3,Chills,March
+Isha Bose,73,Indiranagar,13.122256,77.315968,Cloudy,Winter,Flu,38.3,Fever,December
+Ananya Sharma,18,Bangalore West,12.821706,77.528743,Rainy,Summer,Dengue,39.3,Joint Pain,May
+Kartik Kumar,58,Koramangala,13.136316,77.333702,Sunny,Monsoon,Cholera,37.4,Dehydration,September
+Shivansh Mehta,21,Yelahanka,12.968277,77.559458,Sunny,Post-Monsoon,Dengue,38.1,Fever,November
+Aadhya Pandey,8,Indiranagar,13.033149,77.410871,Snowy,Winter,Flu,38.3,Fever,December
+Saanvi Joshi,50,MG Road,13.06552,77.764126,Stormy,Winter,Cold,36.9,Sneezing,January
+Rohit Singh,37,Jayanagar,12.91557,77.799197,Rainy,Summer,Malaria,38.2,Chills,May
+Radhika Reddy,60,MG Road,12.964942,77.319905,Cloudy,Monsoon,Typhoid,38.2,Stomach Pain,July
+Shivansh Verma,82,MG Road,13.059772,77.633713,Sunny,Summer,Malaria,39,Fever,April
+Priya Mehta,6,Indiranagar,13.158671,77.724559,Snowy,Monsoon,Malaria,39.4,Fever,July
+Shivansh Bose,41,Bangalore West,12.955911,77.642924,Rainy,Summer,Heatstroke,37.4,Fatigue,May
+Sai Desai,49,HSR Layout,12.977306,77.494986,Sunny,Monsoon,Cholera,37.5,Vomiting,October
+Ananya Bose,54,Vidhana Soudha,12.876521,77.714007,Rainy,Summer,Heatstroke,37.3,Dizziness,April
+Aarav Nair,55,Rajajinagar,12.859256,77.588172,Cloudy,Monsoon,Dengue,39.8,Joint Pain,June
+Rohit Nair,46,Basavanagudi,13.035174,77.323831,Snowy,Winter,Cold,37,Runny Nose,February
+Isha Joshi,50,Rajajinagar,13.111417,77.769283,Stormy,Summer,Malaria,38.6,Headache,March
+Shivansh Chakraborty,84,Yelahanka,13.076224,77.587661,Rainy,Monsoon,Malaria,38.4,Sweating,September
+Vihaan Verma,31,Malleshwaram,13.147738,77.727428,Rainy,Summer,Dengue,38.4,Joint Pain,May
+Vihaan Reddy,16,Hebbal,13.100144,77.516681,Stormy,Winter,Flu,38.1,Sore Throat,January
+Sai Srinivasan,7,Indiranagar,12.95532,77.706164,Stormy,Monsoon,Typhoid,39.4,Headache,September
+Reyansh Joshi,85,Bangalore West,13.169653,77.360555,Rainy,Winter,Cold,36.5,Runny Nose,December
+Rohit Patel,74,Bangalore West,13.194506,77.310413,Sunny,Monsoon,Dengue,38.1,Joint Pain,July
+Reyansh Reddy,16,Rajajinagar,12.959946,77.744372,Cloudy,Monsoon,Dengue,40,Fever,July
+Reyansh Chakraborty,21,Banaswadi,12.968624,77.743571,Snowy,Post-Monsoon,Cholera,37.4,Stomach Pain,November
+Kartik Kumar,34,Hebbal,12.816994,77.641803,Cloudy,Monsoon,Dengue,39.8,Rash,September
+Aadhya Patel,73,Rajajinagar,12.983767,77.363685,Rainy,Monsoon,Dengue,39.8,Headache,July
+Kavya Sharma,38,Indiranagar,13.023093,77.363861,Cloudy,Summer,Dengue,38.2,Fever,March
+Isha Srinivasan,60,Indiranagar,12.919653,77.656498,Cloudy,Monsoon,Typhoid,38.9,Fever,June
+Shivansh Joshi,86,Yelahanka,12.854523,77.730668,Rainy,Monsoon,Malaria,39.1,Fever,October
+Kartik Jain,7,Koramangala,12.93377,77.441515,Sunny,Monsoon,Malaria,39.5,Headache,August
+Vihaan Rao,56,Bannerghatta Road,12.812366,77.698727,Cloudy,Monsoon,Cholera,37.3,Stomach Pain,October
+Kartik Jain,5,Banaswadi,13.004778,77.772769,Cloudy,Summer,Dengue,39.3,Fever,May
+Rohit Sharma,41,Kengeri,13.037341,77.499422,Sunny,Summer,Malaria,39.4,Fever,April
+Saanvi Gupta,21,Malleshwaram,13.149633,77.741515,Rainy,Summer,Dengue,38.8,Rash,May
+Aadhya Jain,79,Vidhana Soudha,12.837773,77.371128,Rainy,Summer,Malaria,38.2,Chills,March
+Reyansh Verma,10,Malleshwaram,13.185973,77.49759,Cloudy,Monsoon,Malaria,39.3,Fever,September
+Aditya Nair,42,Koramangala,13.066385,77.331313,Rainy,Monsoon,Typhoid,39.9,Stomach Pain,August
+Radhika Gupta,80,Rajajinagar,12.9649,77.523275,Rainy,Monsoon,Typhoid,39.5,Weakness,September
+Nikhil Joshi,2,Kengeri,12.925689,77.777727,Snowy,Summer,Dengue,38.1,Rash,April
+Harshita Nair,23,Indiranagar,12.813659,77.699518,Sunny,Monsoon,Malaria,39.7,Chills,October
+Shivansh Jain,14,Rajajinagar,13.057309,77.797842,Stormy,Winter,Cold,37.4,Sneezing,January
+Priya Nair,68,Jayanagar,13.035945,77.325352,Rainy,Monsoon,Dengue,39.7,Joint Pain,August
+Harshita Pandey,70,Banaswadi,13.180887,77.371918,Sunny,Monsoon,Dengue,39.6,Headache,August
+Saanvi Pandey,78,MG Road,12.877232,77.556928,Rainy,Summer,Malaria,39.1,Chills,March
+Ananya Gupta,36,Banaswadi,13.132096,77.527698,Rainy,Monsoon,Typhoid,38.9,Weakness,June
+Harshita Jain,29,Kengeri,13.182578,77.426585,Snowy,Winter,Flu,39.6,Cough,February
+Nikhil Singh,22,Indiranagar,12.887995,77.748632,Cloudy,Summer,Heatstroke,37.3,Fatigue,April
+Sai Shukla,25,Indiranagar,12.998244,77.665092,Rainy,Summer,Dengue,39.4,Joint Pain,May
+Reyansh Singh,81,MG Road,12.885318,77.545514,Cloudy,Monsoon,Cholera,36.7,Stomach Pain,June
+Vihaan Bose,53,MG Road,13.087379,77.524323,Snowy,Summer,Dengue,38.7,Joint Pain,April
+Krishna Kumar,43,Indiranagar,12.823656,77.690378,Stormy,Monsoon,Cholera,37,Dehydration,September
+Krishna Gupta,19,Whitefield,12.908266,77.400948,Sunny,Summer,Dengue,38.2,Joint Pain,March
+Rohit Pandey,53,HSR Layout,12.834084,77.306067,Sunny,Monsoon,Cholera,36.6,Dehydration,August
+Saanvi Kumar,42,Jayanagar,12.892038,77.329685,Sunny,Winter,Cough,37,Sore Throat,December
+Saanvi Joshi,79,Malleshwaram,13.020554,77.42727,Snowy,Monsoon,Malaria,38.3,Chills,July
+Ananya Iyer,23,Indiranagar,12.807212,77.556939,Rainy,Winter,Flu,38.8,Fever,February
+Shreya Reddy,82,Bannerghatta Road,12.808219,77.546732,Cloudy,Winter,Cough,37.1,Sore Throat,February
+Saanvi Rao,74,Yelahanka,12.868644,77.448642,Cloudy,Winter,Cold,37.2,Runny Nose,December
+Priya Joshi,20,Bangalore West,13.11628,77.389942,Stormy,Winter,Flu,38.2,Fatigue,February
+Aditya Chakraborty,70,Malleshwaram,13.051554,77.700158,Stormy,Monsoon,Dengue,38.5,Rash,August
+Shreya Kumar,42,Bannerghatta Road,12.845596,77.415187,Sunny,Monsoon,Dengue,39.2,Headache,September
+Isha Joshi,56,Malleshwaram,13.028248,77.607352,Snowy,Winter,Cold,36.9,Runny Nose,January
+Reyansh Yadav,12,Bannerghatta Road,13.158533,77.614497,Rainy,Winter,Cough,37.3,Sore Throat,January
+Nikhil Reddy,12,Banaswadi,13.080124,77.479019,Stormy,Monsoon,Cholera,37.2,Dehydration,September
+Shreya Yadav,68,Indiranagar,12.918947,77.724111,Snowy,Monsoon,Malaria,38.4,Headache,October
+Krishna Shukla,67,Yelahanka,13.027083,77.653941,Snowy,Winter,Flu,39.3,Fatigue,December
+Radhika Gupta,24,Kengeri,13.012753,77.500721,Sunny,Winter,Cold,37.5,Fatigue,February
+Shreya Singh,69,Indiranagar,12.85746,77.395959,Cloudy,Winter,Flu,39.8,Cough,January
+Tanvi Bose,64,Bannerghatta Road,12.831963,77.329342,Snowy,Monsoon,Dengue,38.6,Headache,August
+Aadhya Jain,21,Kengeri,13.059415,77.500586,Rainy,Monsoon,Typhoid,38.2,Weakness,July
+Shivansh Patel,13,MG Road,13.114749,77.360284,Cloudy,Post-Monsoon,Cholera,37,Stomach Pain,November
+Aditya Kumar,68,Vidhana Soudha,13.087469,77.345619,Snowy,Monsoon,Cholera,36.6,Diarrhea,October
+Aditya Rao,47,Bangalore West,12.94733,77.598723,Rainy,Monsoon,Dengue,39.4,Joint Pain,June
+Kartik Jain,31,Kengeri,13.186758,77.368283,Rainy,Winter,Cold,36.8,Sneezing,January
+Tanvi Srinivasan,77,Jayanagar,13.122384,77.674702,Rainy,Monsoon,Dengue,39.9,Headache,October
+Aditya Desai,58,Vidhana Soudha,13.081031,77.793013,Rainy,Summer,Heatstroke,36.9,Fever,May
+Rohit Jain,72,Basavanagudi,12.95305,77.587447,Snowy,Monsoon,Typhoid,39.9,Fever,October
+Rohit Jain,59,Banaswadi,13.004424,77.352918,Rainy,Winter,Flu,38.8,Sore Throat,December
+Rohit Rao,9,Banaswadi,13.145711,77.375569,Rainy,Summer,Malaria,39.9,Headache,May
+Tanvi Bose,74,Banaswadi,12.960559,77.70152,Snowy,Monsoon,Dengue,39.5,Joint Pain,August
+Priya Singh,56,Basavanagudi,12.99238,77.33341,Rainy,Monsoon,Typhoid,38.7,Headache,July
+Kavya Iyer,7,HSR Layout,12.827602,77.495309,Sunny,Summer,Malaria,39.2,Chills,March
+Priya Iyer,52,Banaswadi,13.107533,77.580136,Cloudy,Monsoon,Dengue,38.1,Fever,July
+Reyansh Shukla,63,Hebbal,12.816762,77.455642,Sunny,Winter,Cough,36.8,Sore Throat,January
+Harshita Yadav,84,Malleshwaram,13.013678,77.709203,Stormy,Winter,Cold,36.7,Fatigue,January
+Reyansh Iyer,16,Rajajinagar,12.99118,77.752328,Snowy,Winter,Cough,37,Sore Throat,February
+Aadhya Nair,21,Basavanagudi,12.822345,77.727134,Snowy,Post-Monsoon,Dengue,39.9,Fever,November
+Rohit Bose,70,Malleshwaram,12.900703,77.3832,Cloudy,Summer,Heatstroke,37.4,Dizziness,March
+Aadhya Jain,81,Bannerghatta Road,12.922854,77.696944,Rainy,Monsoon,Malaria,38.9,Fever,August
+Aditya Verma,27,Vidhana Soudha,12.984948,77.36243,Snowy,Monsoon,Cholera,36.5,Dehydration,September
+Rohit Reddy,85,Yelahanka,12.985832,77.645709,Snowy,Monsoon,Typhoid,39.5,Weakness,October
+Isha Iyer,53,Indiranagar,13.034735,77.793151,Cloudy,Winter,Cough,36.9,Sore Throat,January
+Rohit Yadav,1,Indiranagar,12.812753,77.427106,Stormy,Summer,Dengue,38.7,Rash,March
+Nikhil Chakraborty,36,Bannerghatta Road,12.89341,77.649094,Cloudy,Monsoon,Typhoid,38.5,Weakness,June
+Shreya Verma,5,Indiranagar,13.003188,77.353606,Stormy,Monsoon,Typhoid,38.7,Weakness,July
+Reyansh Kumar,57,Yelahanka,12.940889,77.741772,Cloudy,Post-Monsoon,Jaundice,37,Nausea,November
+Tanvi Jain,8,Whitefield,12.83216,77.417847,Rainy,Monsoon,Malaria,38.1,Chills,August
+Nikhil Kumar,53,Jayanagar,12.827307,77.629817,Sunny,Monsoon,Malaria,39.8,Fever,August
+Reyansh Sharma,35,Malleshwaram,13.110238,77.552634,Cloudy,Monsoon,Malaria,38.5,Sweating,August
+Aarav Jain,33,Bannerghatta Road,12.956322,77.731371,Snowy,Monsoon,Dengue,39.1,Joint Pain,July
+Aarav Jain,7,Malleshwaram,13.092321,77.654391,Cloudy,Monsoon,Dengue,38.7,Fever,October
+Nikhil Chakraborty,43,Jayanagar,13.014671,77.732197,Snowy,Winter,Cold,36.6,Sneezing,February
+Shivansh Rao,13,Kengeri,13.051868,77.411439,Snowy,Winter,Cough,37.4,Fatigue,February
+Kartik Joshi,30,Koramangala,12.888825,77.441528,Snowy,Monsoon,Cholera,37.1,Vomiting,July
+Shreya Reddy,74,Indiranagar,13.00281,77.423825,Snowy,Winter,Cold,36.8,Runny Nose,January
+Sai Yadav,36,MG Road,12.915623,77.401606,Snowy,Winter,Cold,37.4,Fatigue,December
+Sai Desai,13,HSR Layout,13.166184,77.342619,Sunny,Winter,Cold,37.4,Sneezing,December
+Shreya Singh,25,Yelahanka,13.147651,77.389226,Cloudy,Monsoon,Typhoid,38.4,Headache,July
+Isha Verma,69,Hebbal,12.967328,77.430686,Cloudy,Summer,Malaria,39.6,Fever,April
+Saanvi Bose,23,Vidhana Soudha,12.949339,77.340726,Rainy,Monsoon,Cholera,37.3,Stomach Pain,June
+Priya Srinivasan,3,Malleshwaram,12.913029,77.360439,Stormy,Post-Monsoon,Cholera,36.6,Dehydration,November
+Aadhya Iyer,42,Indiranagar,13.050343,77.441704,Stormy,Monsoon,Dengue,39.3,Headache,July
+Vihaan Mehta,74,Yelahanka,13.142642,77.594372,Rainy,Monsoon,Typhoid,39.1,Weakness,July
+Vihaan Iyer,40,Whitefield,13.102126,77.531416,Snowy,Winter,Cold,36.8,Runny Nose,January
+Harshita Mehta,78,Malleshwaram,12.817666,77.466969,Snowy,Post-Monsoon,Cholera,37.4,Dehydration,November
+Nikhil Patel,46,HSR Layout,12.878017,77.482418,Cloudy,Summer,Heatstroke,36.9,Fatigue,April
+Sai Desai,39,Jayanagar,12.815447,77.415502,Sunny,Winter,Flu,38.7,Cough,December
+Shivansh Chakraborty,87,Vidhana Soudha,12.817059,77.547416,Snowy,Monsoon,Malaria,38.9,Chills,September
+Saanvi Iyer,58,HSR Layout,12.884334,77.78939,Cloudy,Monsoon,Malaria,40,Headache,June
+Aditya Gupta,8,Yelahanka,13.084296,77.434744,Rainy,Summer,Heatstroke,37.3,Headache,May
+Reyansh Gupta,1,Jayanagar,13.077707,77.395684,Stormy,Winter,Cough,37.1,Sore Throat,January
+Kavya Reddy,20,Bangalore West,12.873318,77.534618,Sunny,Summer,Dengue,39.4,Joint Pain,May
+Radhika Singh,80,MG Road,12.989564,77.367287,Snowy,Monsoon,Cholera,37.4,Dehydration,September
+Kavya Jain,60,Basavanagudi,13.180321,77.576,Cloudy,Monsoon,Dengue,38.3,Joint Pain,September
+Rohit Patel,22,Yelahanka,12.921561,77.435085,Stormy,Monsoon,Dengue,39.5,Rash,June
+Kartik Verma,77,Jayanagar,13.169132,77.717442,Snowy,Summer,Heatstroke,37.3,Fever,May
+Harshita Rao,2,Rajajinagar,13.074585,77.618802,Rainy,Winter,Cough,37.2,Sore Throat,February
+Priya Mehta,30,Vidhana Soudha,13.055407,77.494622,Snowy,Summer,Dengue,38.1,Fever,April
+Kartik Yadav,37,Basavanagudi,13.181753,77.669305,Sunny,Winter,Flu,39.6,Fever,December
+Krishna Srinivasan,76,Yelahanka,13.070517,77.726946,Sunny,Monsoon,Cholera,37,Stomach Pain,September
+Kavya Kumar,83,Banaswadi,12.880011,77.65508,Sunny,Monsoon,Cholera,36.7,Vomiting,September
+Krishna Srinivasan,11,Rajajinagar,13.154216,77.670186,Cloudy,Winter,Cough,36.8,Cough,December
+Reyansh Iyer,84,Basavanagudi,13.141875,77.631794,Cloudy,Monsoon,Malaria,39.3,Sweating,September
+Reyansh Joshi,46,Jayanagar,12.918368,77.586423,Snowy,Winter,Cold,37.1,Fatigue,February
+Aadhya Iyer,55,Bangalore West,13.160738,77.578913,Stormy,Monsoon,Typhoid,38.2,Headache,October
+Nikhil Mehta,63,Malleshwaram,13.115854,77.554464,Rainy,Monsoon,Dengue,38.4,Joint Pain,June
+Shreya Patel,33,Jayanagar,13.192598,77.45339,Rainy,Monsoon,Dengue,39.9,Fever,September
+Aditya Gupta,49,Bannerghatta Road,12.855297,77.451039,Cloudy,Winter,Cold,36.6,Fatigue,December
+Shreya Pandey,25,Kengeri,12.984758,77.536412,Sunny,Monsoon,Dengue,39,Rash,July
+Shreya Mehta,71,MG Road,12.890156,77.495253,Rainy,Monsoon,Malaria,39.5,Fever,July
+Saanvi Mehta,8,MG Road,12.813926,77.390989,Sunny,Summer,Malaria,38.4,Headache,March
+Harshita Mehta,62,Malleshwaram,13.186394,77.541944,Snowy,Monsoon,Typhoid,38.5,Fever,October
+Kavya Shukla,52,Indiranagar,13.108001,77.674715,Sunny,Summer,Heatstroke,37.4,Dizziness,May
+Reyansh Bose,14,Banaswadi,12.813335,77.486688,Stormy,Post-Monsoon,Cholera,37,Vomiting,November
+Rohit Pandey,70,Banaswadi,13.107476,77.760864,Cloudy,Monsoon,Typhoid,39.5,Headache,July
+Ananya Yadav,59,Kengeri,13.159759,77.506007,Sunny,Monsoon,Typhoid,38.1,Headache,August
+Vihaan Pandey,4,Hebbal,12.869698,77.736672,Cloudy,Summer,Malaria,39.5,Sweating,April
+Rohit Rao,27,Banaswadi,13.099297,77.414053,Stormy,Monsoon,Cholera,36.6,Dehydration,September
+Kavya Verma,84,Koramangala,13.023678,77.575322,Rainy,Summer,Dengue,39.6,Joint Pain,March
+Priya Chakraborty,41,Malleshwaram,13.03734,77.386968,Snowy,Summer,Malaria,38.2,Chills,April
+Kartik Reddy,18,Koramangala,13.064923,77.460034,Stormy,Summer,Malaria,39.2,Headache,March
+Shreya Reddy,60,Malleshwaram,13.121084,77.684115,Cloudy,Post-Monsoon,Cholera,36.7,Stomach Pain,November
+Aadhya Yadav,74,Koramangala,13.142596,77.733321,Sunny,Summer,Malaria,38.7,Headache,May
+Vihaan Yadav,14,Bangalore West,12.863023,77.396276,Cloudy,Post-Monsoon,Jaundice,37.5,Fatigue,November
+Rohit Mehta,2,Whitefield,13.134762,77.569124,Sunny,Winter,Cold,37,Runny Nose,January
+Vihaan Joshi,62,Bannerghatta Road,13.002057,77.361526,Cloudy,Summer,Heatstroke,37.1,Dizziness,March
+Harshita Mehta,39,Jayanagar,12.986557,77.517597,Snowy,Monsoon,Dengue,39,Fever,September
+Kavya Yadav,13,MG Road,13.116682,77.358732,Snowy,Winter,Flu,38.2,Fatigue,December
+Priya Srinivasan,80,Malleshwaram,12.81395,77.670838,Sunny,Winter,Cough,36.8,Fatigue,February
+Saanvi Shukla,8,Rajajinagar,12.983133,77.390374,Cloudy,Monsoon,Cholera,36.7,Dehydration,June
+Shivansh Patel,27,Koramangala,12.854304,77.556131,Stormy,Monsoon,Typhoid,39,Stomach Pain,October
+Tanvi Singh,29,Yelahanka,12.979717,77.674135,Rainy,Winter,Cough,37.1,Cough,January
+Ananya Bose,53,Bannerghatta Road,13.003925,77.312013,Cloudy,Summer,Heatstroke,37,Dizziness,May
+Saanvi Rao,51,Banaswadi,12.801602,77.423859,Stormy,Monsoon,Typhoid,38.5,Weakness,September
+Kartik Chakraborty,32,Whitefield,13.058781,77.452613,Sunny,Summer,Dengue,39.1,Joint Pain,April
+Saanvi Gupta,35,Rajajinagar,13.168209,77.700029,Stormy,Monsoon,Typhoid,38.1,Weakness,October
+Radhika Sharma,90,HSR Layout,13.186088,77.702806,Sunny,Monsoon,Cholera,37.4,Dehydration,August
+Priya Patel,29,Jayanagar,12.812442,77.50903,Rainy,Monsoon,Malaria,39.9,Headache,June
+Reyansh Bose,60,Bannerghatta Road,13.094715,77.720532,Snowy,Monsoon,Typhoid,39.7,Fever,June
+Aadhya Mehta,22,Hebbal,13.176904,77.775232,Stormy,Monsoon,Dengue,38.9,Joint Pain,August
+Priya Mehta,46,HSR Layout,13.185088,77.347552,Sunny,Monsoon,Malaria,39.3,Sweating,July
+Radhika Srinivasan,40,HSR Layout,12.811932,77.706221,Snowy,Monsoon,Dengue,38,Headache,October
+Tanvi Joshi,39,Koramangala,13.028968,77.646477,Snowy,Monsoon,Cholera,37.4,Dehydration,June
+Reyansh Srinivasan,61,Vidhana Soudha,12.949426,77.785892,Stormy,Winter,Cold,36.7,Runny Nose,February
+Sai Mehta,59,Hebbal,13.104245,77.790836,Rainy,Monsoon,Dengue,38.6,Headache,July
+Priya Verma,18,Bangalore West,13.195501,77.57083,Snowy,Winter,Cough,37.2,Sore Throat,February
+Shreya Mehta,34,MG Road,13.003361,77.561149,Rainy,Monsoon,Dengue,38.2,Joint Pain,September
+Priya Rao,64,MG Road,13.099463,77.708726,Cloudy,Summer,Dengue,39.1,Headache,May
+Sai Reddy,27,Malleshwaram,13.014923,77.729044,Snowy,Winter,Cold,36.9,Sneezing,January
+Saanvi Pandey,27,Kengeri,12.876148,77.532658,Cloudy,Winter,Cough,36.5,Sore Throat,January
